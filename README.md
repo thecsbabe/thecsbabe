@@ -23,3 +23,6 @@ Others:
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/vanessaokosun/).
 
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@thecsbabe/30-nites-of-code)  
+  ![@thecsbabe #30NitesOfCode](https://www.codedex.io/api/petStatus?user=thecsbabe)
