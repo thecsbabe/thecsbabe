@@ -9,15 +9,19 @@ I'm a 28-year-old currently pursuing a Bachelor's degree in Computer Science at 
 Currently, I'm on a mission to expand my knowledge and expertise in computer science by heading back to school. This GitHub repository serves as a space to document my learning journey, share insights, and showcase projects as I navigate through the vast landscape of programming.
 
 ## 💻Tech Stack 
-Languages:`SQL` `Python` `R`
+Programming Languages:`SQL` `Python` `R`
 
-Tools: 
+Data Visualization: `Power BI` `Tableau`
+
+Web Development: `HTML`
 
 Version Control: `Git`
 
-Databases:
+Databases: `Microsoft SQL Server` `MySQL` `PostgreSQL`
 
-Others: 
+Cloud Computing:
+
+Machine Learning: `Scikit-learn`
 
 ## 👤Connect With Me 
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/vanessaokosun/).
