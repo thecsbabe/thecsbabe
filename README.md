@@ -19,9 +19,7 @@ Version Control: `Git`
 
 Databases: `Microsoft SQL Server` `MySQL` `PostgreSQL`
 
-Cloud Computing:
-
-Machine Learning: `Scikit-learn`
+Others: `Scikit-learn` `NumPy`
 
 ## 👤Connect With Me 
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/vanessaokosun/).
